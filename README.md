@@ -74,4 +74,4 @@
 : 이미지 바꾸기 버튼으로 뷰의 그림('예의바른 고양이 올리'와 '추운 강아지')을 바꾸기 
 
 
-<img width="" height="" src="./Png/7주차 과제.png"></img>
+<img width="" height="" src="./Png/캡스톤디자인_7주차_과제.png"></img>
